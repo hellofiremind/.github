@@ -1,6 +1,7 @@
 ## PR Type
 What kind of change does this PR introduce?
 
+- [ ] Production Release (v1.x.x)
 - [ ] Bugfix (non-breaking change which fixes an issue)
 - [ ] New Feature (non-breaking change which adds functionality)
 - [ ] Breaking Change (fix or feature that causes existing functionality to change)
