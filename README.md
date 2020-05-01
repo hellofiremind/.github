@@ -1,5 +1,14 @@
 # Default community health files
 
+GitHub will use and display default files for any repo in the Firemind org.
+These defaults will not get used if a repo has its own .github/ or docs/ folder with templates in them.
+
+The issue and pull request templates here will be automaitcally used when a user raises an issue or creates a PR in any of the Firemind repos.
+
+Default files are not included in clones, packages, or downloads of individual repositories because they are stored only in the .github repository.
+
+## Supported file types
+
 <table>
   <thead>
     <tr>
