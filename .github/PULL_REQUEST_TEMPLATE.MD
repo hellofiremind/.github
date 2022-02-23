@@ -19,12 +19,6 @@ Has your code been linted before merging  the pull-request?
 If 'No', please explain why?
 > 
 
-## Destination Branch
-- [ ] Story
-- [ ] Development
-- [ ] Staging
-- [ ] Production (Requires 1 review + team member with administrator permissions to nerge)
-
 ## PR Type
 What kind of change does this PR introduce?
 
@@ -34,7 +28,6 @@ What kind of change does this PR introduce?
 - [ ] Code Functionality Change (non-breaking code change which modifies existing functionality - e.g. a change request from Service Desk)
 - [ ] Documentation change (e.g. README.md file)
 - [ ] Production Release (v1.x.x - only applicable when Production is your destination)
-- [ ] Other (specify)
 
 Jira Ticket: https://firemind.atlassian.net/browse/TICKET_NUMBER
 
