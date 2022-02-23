@@ -16,7 +16,7 @@ Has your code been linted before merging  the pull-request?
 - [ ] Yes
 - [ ] No
 
-If 'No', please explain why;
+If 'No', please explain why?
 > 
 
 ## Destination Branch
