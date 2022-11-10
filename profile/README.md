@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-    <a href="https://www.linkedin.com/company/hellofiremind/"><img height="20" src="https://marketing-assets.firemind.io/email-assets/images/Icon awesome-linkedin-in@2x.png" alt="LinkedIn"></a>
+    <a style="margin-top:4px;" href="https://www.linkedin.com/company/hellofiremind/"><img height="20" src="https://marketing-assets.firemind.io/email-assets/images/Icon awesome-linkedin-in@2x.png" alt="LinkedIn"></a>
     &nbsp;
     <a href="https://www.youtube.com/c/firemind"><img height="20" src="https://marketing-assets.firemind.io/email-assets/images/Icon awesome-youtube@2x.png" alt="Youtube"></a>
     &nbsp;
