@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://www.firemind.io" target="_blank">
-        <img style="width:100%;" src="https://website-assets.cdn.firemind.io/7/wp-content/uploads/2022/11/Group-12500-2.jpg" alt="Firemind Logo">
+    <a href="https://www.firemind.com" target="_blank">
+        <img style="width:100%;" src="https://github.com/hellofiremind/.github/blob/109488846edef05fdae33322b13dd326698fdbcf/profile/Firemind%20-%20GitHub%202024%20ReadMe%20(1).jpg" alt="Firemind Logo">
     </a>
 </p>
 
