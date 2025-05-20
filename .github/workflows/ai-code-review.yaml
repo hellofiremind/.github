@@ -37,7 +37,7 @@ jobs:
       - name: Download reviewer folder from HelloFiremind/.github repo
         run: |
           mkdir -p reviewer
-          curl -L https://github.com/HelloFiremind/.github/archive/refs/heads/main.tar.gz | tar -xz --strip-components=1 .github-main/reviewer
+          curl -L https://github.com/HelloFiremind/.github/archive/refs/heads/master.tar.gz | tar -xz --strip-components=1 .github-master/reviewer
 
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v4
