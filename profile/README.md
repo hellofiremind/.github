@@ -9,7 +9,10 @@
 
 <p align="center">
   <a href="https://www.firemind.com/">
-    <img src="https://www.firemind.com/media/images/header-logo.png#gh-light-mode-only" width="260" alt="Firemind">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.firemind.com/media/images/header-logo-white.png">
+      <img src="https://www.firemind.com/media/images/header-logo.png" width="260" alt="Firemind">
+    </picture>
   </a>
 </p>
 
@@ -25,7 +28,7 @@
 <p align="center">
   <a href="https://firemind.careers.hibob.com/jobs"><img src="https://img.shields.io/badge/Explore_open_positions-DC143C?style=for-the-badge" alt="Explore open positions"></a>
   &nbsp;
-  <a href="https://www.firemind.com/careers/"><img src="https://img.shields.io/badge/Life_at_Firemind-1a1a1a?style=for-the-badge" alt="Life at Firemind"></a>
+  <a href="https://www.firemind.com/careers/"><img src="https://img.shields.io/badge/Life_at_Firemind-6e7681?style=for-the-badge" alt="Life at Firemind"></a>
 </p>
 
 <br>
